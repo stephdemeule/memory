@@ -8,7 +8,6 @@ import java.io.IOException;
 import java.util.Deque;
 
 import javax.swing.ImageIcon;
-import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.JToggleButton;
